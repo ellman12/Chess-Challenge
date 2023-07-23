@@ -8,6 +8,7 @@ using System.Runtime.ExceptionServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using Chess_Challenge.My_Bot;
 using static ChessChallenge.Application.Settings;
 using static ChessChallenge.Application.ConsoleHelper;
 
